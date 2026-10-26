@@ -1,0 +1,6 @@
+{
+  "name": "Sentinel Solar",
+  "description": "Off-grid solar security mobile app with AI threat deterrence, live camera feed, power telemetry, and automated escalation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
